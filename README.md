@@ -1,2 +1,1 @@
-# hello-world
-An Hello to the World!!
+I'm Douglas from Brazil and also a BYU-I student. 
